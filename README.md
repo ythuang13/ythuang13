@@ -14,10 +14,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-  🔭 I’m currently working on graduating from Cal Poly Pomona in May 2023.
-  📖 Degree in progress: Major-Computer Science, Minor-Data Science
-  🌱 I’m currently learning everything. EVERYTHING!
-  📫 How to reach me: email-ythuang13@gmail.com
-  ⚡ Fun fact: I'm pretty fun to hangout
+- 🔭 I’m currently working on graduating from Cal Poly Pomona in May 2023.
+- 📖 Degree in progress: Major-Computer Science, Minor-Data Science
+- 🌱 I’m currently learning everything. EVERYTHING!
+- 📫 How to reach me: email-ythuang13@gmail.com
+- ⚡ Fun fact: I'm pretty fun to hangout
 
 
