@@ -18,6 +18,6 @@
 - 📖 Degree in progress: Major-Computer Science, Minor-Data Science
 - 🌱 I’m currently learning everything. EVERYTHING!
 - 📫 How to reach me: ythuang13@gmail.com
-- ⚡ Fun fact: I'm pretty fun to hangout
+- ⚡ Fun fact: I'm pretty fun to hangout, ask Ryan and Tyler
 
 
