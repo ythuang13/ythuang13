@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yitian
+### Hi there 👋 I'm Yitian Huang
 
 
 <!-- **ythuang13/ythuang13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -14,10 +14,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-- 🔭 I’m currently working on graduating from Cal Poly Pomona in May 2023.
-- 📖 Degree in progress: Major-Computer Science, Minor-Data Science
+- 🔭 Graduated from California Polytechnic State University Pomona in May 2023.
+- 📖 Bachelor of Science Computer Science with Data Science minor.
 - 🌱 I’m currently learning everything. EVERYTHING!
 - 📫 How to reach me: ythuang13@gmail.com
-- ⚡ Fun fact: I'm pretty fun to hangout, ask Ryan and Tyler
+- ⚡ Fun fact: I have two friends named Ryan and Tyler.
 
 
