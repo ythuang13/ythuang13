@@ -16,8 +16,8 @@
 
 - 🔭 Graduated from California Polytechnic State University Pomona in May 2023.
 - 📖 Bachelor of Science Computer Science with Data Science minor.
-- 🌱 I’m currently learning everything. EVERYTHING!
+- 🌱 I play video games and edit videos for fun.
 - 📫 How to reach me: ythuang13@gmail.com
-- ⚡ Fun fact: I have two friends named Ryan and Tyler.
+- ⚡ Fun fact: There's nothing fun!!!
 
 
